@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ghast_stone:ghast_stone",
+    "ghast_stone:ghast_deepslate",
+    "ghast_stone:ghast_andesite",
+    "ghast_stone:ghast_diorite",
+    "ghast_stone:ghast_granite"
+  ]
+}

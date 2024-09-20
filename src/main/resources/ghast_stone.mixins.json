@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "scaryboi.ghast_stone.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ghast_stone.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

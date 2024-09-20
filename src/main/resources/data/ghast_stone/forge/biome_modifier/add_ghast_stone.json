@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "ghast_stone:ghast_stone_blocks",
+  "step": "underground_ores"
+}
